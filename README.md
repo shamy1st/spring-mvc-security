@@ -7,8 +7,8 @@
 * Spring Security defines a framework for security
 * Implemented using Servlet filters in the background
 * Two methods of securing a web app: 
-      1. Declarative
-      2. Programmatic
+1. Declarative
+2. Programmatic
 
 ## Spring Security with Servlet Filters
 
