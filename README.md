@@ -15,7 +15,7 @@
 
 ## Spring Security Overview
 
-[](https://github.com/shamy1st/spring-mvc-security/blob/main/images/spring-security-overview.png)
+![](https://github.com/shamy1st/spring-mvc-security/blob/main/images/spring-security-overview.png)
 
 
 ## Ref
