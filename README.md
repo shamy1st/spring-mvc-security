@@ -16,7 +16,7 @@
 ## Spring Security Overview
 
 ![](https://github.com/shamy1st/spring-mvc-security/blob/main/images/spring-security-overview.png)
-
+![](https://github.com/shamy1st/spring-mvc-security/blob/main/images/spring-security-in-action.png)
 
 ## Ref
 * https://docs.spring.io/spring-security/site/docs/4.2.3.RELEASE/reference/htmlsingle/
