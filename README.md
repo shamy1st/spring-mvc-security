@@ -33,6 +33,9 @@
 ## Example
 
 ![](https://github.com/shamy1st/spring-mvc-security/blob/main/images/example-overview.png)
+![](https://github.com/shamy1st/spring-mvc-security/blob/main/images/example-database-schema.png)
+![](https://github.com/shamy1st/spring-mvc-security/blob/main/images/example-users-table.png)
+![](https://github.com/shamy1st/spring-mvc-security/blob/main/images/example-authorities-table.png)
 
 
 ## Ref
